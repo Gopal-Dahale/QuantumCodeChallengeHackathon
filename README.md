@@ -29,6 +29,7 @@ This project explores Quantum Machine Learning (QML) for rain prediction to enha
 - `qboost.py`: QBoost python classes.
 - `results`: Holds the results generated during notebook execution.
 - `presentation.pdf`: Presentation.
+- `requirements.txt`: Necessary Python packages to run the notebooks.
 
 ## Results
 

@@ -1,0 +1,14 @@
+dimod==0.12.18
+dwave_cloud_client==0.13.1
+dwave_preprocessing==0.6.7
+dwave_samplers==1.4.0
+dwave_system==1.27.0
+imbalanced_learn==0.12.4
+jax==0.4.34
+matplotlib==3.9.2
+numpy==2.1.2
+optax==0.2.3
+pandas==2.2.3
+PennyLane==0.38.0
+scikit_learn==1.5.2
+seaborn==0.13.2
